@@ -7,7 +7,7 @@
     - Hollywood representations. Content from movies such as Up! and Point Break where Canaima appears.
 
 ### Sample capta
-!(img/1.png)
+![Hello](/img/1.png)
 !(img/2.png)
 !(img/3.png)
 
